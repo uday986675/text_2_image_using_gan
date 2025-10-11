@@ -6,7 +6,7 @@ This project implements a **comprehensive text-to-image generation pipeline** th
 - Evaluation with a simple CNN classifier
 
 ### 📘 Overview
-We simulate a text-to-image problem using synthetic geometric shapes described by color and shape (e.g., "red circle").  
+I simulate a text-to-image problem using synthetic geometric shapes described by color and shape (e.g., "red circle").  
 The model learns to generate corresponding images from text embeddings.
 
 ### 🧠 Components
